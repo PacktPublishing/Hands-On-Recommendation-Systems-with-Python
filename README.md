@@ -9,7 +9,7 @@ This is the code repository for [Hands-On Recommendation Systems with Python](ht
 ## What is this book about?
 First Paragraph from the Long Description
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * The different kinds of recommender systems
 * Data wrangling techniques using the pandas library
 * Building an IMDB Top 250 Clone
