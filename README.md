@@ -1,8 +1,8 @@
 # Hands-On Recommendation Systems with Python
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-recommendation-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781788993753"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10302_cover_New.png" alt="Hands-On Recommendation Systems with Python" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Recommendation Systems with Python](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Hands-On Recommendation Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-recommendation-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781788993753), published by Packt.
 
 **Start building powerful and personalized, recommendation engines with Python**
 
