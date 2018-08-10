@@ -52,6 +52,12 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/HandsOnRecommendationSystemswithPython_ColorImages.pdf).
 
+## Code in Action
+
+Click on the following link to see the Code in Action:
+
+[http://bit.ly/2JV4oeu](http://bit.ly/2JV4oeu)
+
 ### Related products
 * Statistics for Machine Learning [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781788295758) [[Amazon]](https://www.amazon.com/dp/1788295757)
 
